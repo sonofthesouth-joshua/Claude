@@ -1,0 +1,7 @@
+200 Notes/Admin/Credentials/*
+!200 Notes/Admin/Credentials/.gitkeep
+_intake/
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
