@@ -7,9 +7,10 @@ via: brain-install starter-kit
 
 ## Confirmed
 - **CEO / Founder — Joshua Carney.** Owns vision, offer architecture, strategic sales, partnerships, brand, major/strategic accounts, capital allocation. Decision rights: offer, pricing, strategic accounts, capital allocation (per [[Role Scorecards]]).
+- **Confirmed by owner (2026-09-19): Joshua is currently the only person in the business.** SMM is pre-launch/just starting — every other function below is target-state design, not staffed yet.
 
-## Role design (function, not confirmed as filled by named people)
-The source material separates the operating model into these functions "even when one person initially covers multiple seats" (its own wording):
+## Role design (target-state — not yet filled)
+The source material separates the operating model into these functions "even when one person initially covers multiple seats" (its own wording). Owner-confirmed: none of these are filled by anyone other than Joshua today.
 
 | Function | Outcome | Weekly KPIs tracked | Decision rights |
 |---|---|---|---|
@@ -28,6 +29,6 @@ Also named in the org model but without a scorecard in the source: Outbound/SDR 
 - **Quarterly:** offer/pricing review, vertical performance, partner/vendor review, strategic bets
 
 ---
-**Sources:** [[Master Business OS]], [[Role Scorecards and Comp Framework]], [[Role Scorecards]]
-**UNVERIFIED:** who (if anyone besides Joshua) currently holds each function — the source describes target-state role design, not a confirmed staff roster. Source itself lists "current team members, vendors, white-label partners, commissions, and ownership by function" as pending CEO approval/confirmation.
+**Sources:** [[Master Business OS]], [[Role Scorecards and Comp Framework]], [[Role Scorecards]]; staffing confirmed by owner, 2026-09-19
+**UNVERIFIED:** vendors/white-label partners and commission arrangements — not yet applicable pre-launch, re-check once hiring/vendor relationships start.
 **CONFLICT:** none — the docx narrative ([[Role Scorecards and Comp Framework]]) and the spreadsheet table ([[Role Scorecards]]) describe the same roles at different levels of detail; treated as complementary, not conflicting.

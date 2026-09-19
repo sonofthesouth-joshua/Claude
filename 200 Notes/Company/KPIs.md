@@ -5,7 +5,9 @@ via: brain-install starter-kit
 
 # KPIs
 
-The source material defines a **full KPI framework across 8 categories**, not a ranked top-5 — the owner needs to tell us which 5 they actually watch weekly (see refinement agenda).
+**Confirmed by owner (2026-09-19): SMM is pre-launch, so no KPI is actually being tracked yet** — there's no traffic, leads, or revenue to measure. The framework below is the *target* measurement plan to stand up once the business is operating, not a current top-5.
+
+The source material defines a **full KPI framework across 8 categories**, not a ranked top-5 — revisit this once there's real activity to rank against.
 
 | Category | KPIs | Source system (per [[KPI Definitions (from Operating Data Model)]]) |
 |---|---|---|
@@ -22,6 +24,6 @@ The source material defines a **full KPI framework across 8 categories**, not a 
 "Do not claim revenue attribution unless the data supports it. Distinguish observed metrics from modeled estimates." Revenue Leak Audit outputs are always illustrative/modeled, never presented as guaranteed recovered revenue.
 
 ---
-**Sources:** [[Master Business OS]], [[KPI Definitions (from Operating Data Model)]]
-**UNVERIFIED:** the owner's actual top-5 (the interview question is still open — see `000 OS/install/refinement-agenda.md`); which single system of record each KPI is read from in practice (source names categories of tools, e.g. "CRM/billing," not one dashboard).
+**Sources:** [[Master Business OS]], [[KPI Definitions (from Operating Data Model)]]; pre-launch status confirmed by owner, 2026-09-19
+**UNVERIFIED:** the owner's actual top-5 once operating; which single system of record each KPI is read from in practice (source names categories of tools, e.g. "CRM/billing," not one dashboard). Both are "not yet applicable" rather than open gaps — revisit at first-client stage.
 **CONFLICT:** none.

@@ -1,11 +1,18 @@
 ---
 date: 2026-09-19
-status: DRAFT — pulled from the uploaded corpus, awaiting owner confirmation
+status: PARTIALLY CONFIRMED — business-stage facts confirmed by owner 2026-09-19; the rest is still draft from the corpus
 ---
 
 # Seed facts (interview)
 
-**These are draft answers pulled directly from the uploaded documents, not yet confirmed by the owner in conversation.** Per Hard Rule 4 (brain-install), seed facts outrank corpus documents once confirmed — until Joshua confirms or corrects these, they carry corpus-level trust only, not seed-fact trust, and are marked `UNVERIFIED` throughout the brain core.
+## Confirmed by owner, 2026-09-19
+- **Business stage: pre-launch / just starting.** No clients yet.
+- **Team: solo — Joshua Carney only.** No one else currently working in the business.
+- **Tools: nothing from the source Tool Stack is live/connected yet.** All target-state.
+
+These three facts are now seed-fact tier (outrank the corpus) and have been applied to [[Clients Overview]], [[Org]], [[Tool Stack]], [[KPIs]], and [[🌟 North Star]].
+
+## Everything below is still draft, pulled directly from the uploaded documents, not yet confirmed by the owner in conversation.
 
 ## Company name + what the business does
 Shadow Marketing Media (SMM) — an AI-powered revenue-systems and growth agency. Connects marketing, lead capture, AI response, CRM automation, sales follow-up, reputation, reporting, and retention into one system for established service businesses. Framework: the Shadow Growth System™ (Attract → Capture → Convert → Retain → Expand).

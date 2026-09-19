@@ -15,9 +15,9 @@ Shadow Marketing Media is building the operating system that turns "we already h
 Grow into a $100M company through high-ticket recurring retainers, AI/software revenue, implementation fees, consulting/licensing, digital products, white-label systems, and strategic partnerships. A prior planning milestone referenced 20 "Dominance"-tier clients at $5K/month = $100K MRR; a prior aggressive target of $1M in 7 months is explicitly labeled in the source as "a strategic target, not a forecast or guarantee."
 
 ## Current priorities
-`UNVERIFIED` — not stated anywhere in the corpus. This is the first thing to fill in during refinement: what is actually being worked on *right now*, this quarter, this month.
+**Owner-confirmed (2026-09-19): SMM is pre-launch — just starting.** No clients, solo team (Joshua only), no tools connected yet. The implicit current priority is standing up the business itself: getting this brain/operating system in place, then moving toward the first client. Exact near-term priorities (which tools to connect first, which vertical to target first, when to start outbound) are still open — worth a short answer next time to sharpen this section further.
 
 ---
-**Sources:** [[Company Profile]], [[Master Business OS]]
-**UNVERIFIED:** everything above is corpus-derived, not owner-confirmed. Current priorities are entirely missing.
+**Sources:** [[Company Profile]], [[Master Business OS]]; business stage confirmed by owner, 2026-09-19
+**UNVERIFIED:** the long-term $100M objective and its milestones are still corpus-derived, not owner-confirmed as current targets. Specific near-term (this quarter) priorities beyond "get launched" are still open.
 **CONFLICT:** none.
